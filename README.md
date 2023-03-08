@@ -1,5 +1,11 @@
 # MONTE CARLO METHODS AND FINITE-SIZE ANALYSIS IN PARAMAGNETIC-FERROMAGNETIC MODELS OF PHASE TRANSITION
 
+Authors:
+* Carlo Divari
+* Gloria Isotton
+* Maryam Feizi
+* Sara Munafò
+
 ## Assigment
 
 Monte Carlo methods and finite size analysis in paramagnetic-ferromagnetic models of phase transitions
